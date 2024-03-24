@@ -3,13 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"
 
 - 🔭 I’m currently working on **ResiQuest**
-
 - 🌱 I’m currently learning **Node.js | Express.js | LARAVEL**
-
 - 👯 I’m looking to collaborate on **Web Application Development**
-
 - 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **castroandew10@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
