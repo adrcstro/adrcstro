@@ -13,8 +13,9 @@
 
 - 📫 How to reach me **castroandew10@gmail.com**
 
-<h3 class="mt-4" align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
+  <a href="https://twitter.com/_adrcstro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_adrcstro" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/_adrcstro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_adrcstro" height="30" width="40" /></a>
   <a href="https://fb.com/andre thomas castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andre thomas castro" height="30" width="40" /></a>
   <a href="https://instagram.com/_adrcstro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adrcstro" height="30" width="40" /></a>
