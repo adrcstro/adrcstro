@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andre Thomas Castro</h1>
 <h3 align="center">Backend Dev | Frontend Dev | UI/UX</h3>
-<img align="right" alt="coding" width="340" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrcstro&label=Profile%20views&color=0e75b6&style=flat" alt="adrcstro" /> </p>
 
-- 🔭 I’m currently working on **Web Application Project**
+- 🔭 I’m currently working on **ResiQuest**
 
 - 🌱 I’m currently learning **Node.js | Express.js | LARAVEL**
 
-	@@ -13,20 +17,18 @@
+- 👯 I’m looking to collaborate on **Web Application Development**
+
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **castroandew10@gmail.com**
 
